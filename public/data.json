@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "image": "/image/product1.png",
+    "price": 150,
+    "name": "LIGTTWAVE BOARD",
+    "descrption": "Causae iudicat vitu perata mea ei, cum posse im pedit molestie ne, atqui viris simi lique ei vel. Per te illud an imal, vix ea sint con sul a pella tur iris itegre.",
+    "onSale": true,
+    "canBuy": true,
+    "salePrice": 120,
+    "categories": [
+      "Equipment",
+      "Board"
+    ],
+    "category": "Board",
+    "variants": {
+      "kinds": [
+        "/image/product1.png",
+        "/image/product2.png",
+        "/image/product2.png",
+        "/image/product1.png"
+      ],
+      "sugestion": [
+        {
+          "image": "/image/product2.png",
+          "onSale": false,
+          "price": 160,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product3.png",
+          "onSale": false,
+          "price": 100,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product4.png",
+          "onSale": false,
+          "price": 80,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "image": "/image/product2.png",
+    "price": 160,
+    "name": "SCUBA DIVING WETSUIT",
+    "descrption": "Causae iudicat vitu perata mea ei, cum posse im pedit molestie ne, atqui viris simi lique ei vel. Per te illud an imal, vix ea sint con sul a pella tur iris itegre.",
+    "onSale": true,
+    "canBuy": false,
+    "salePrice": 128,
+    "categories": [
+      "Equipment",
+      "Board"
+    ],
+    "category": "Equipment",
+    "variants": {
+      "kinds": [
+        "/image/product1.png",
+        "/image/product2.png",
+        "/image/product2.png",
+        "/image/product1.png"
+      ],
+      "sugestion": [
+        {
+          "image": "/image/product2.png",
+          "onSale": false,
+          "price": 160,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product4.png",
+          "onSale": false,
+          "price": 80,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product3.png",
+          "onSale": false,
+          "price": 100,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "image": "/image/product3.png",
+    "price": 100,
+    "name": "Woman’s Wetsuit Pro",
+    "descrption": "Causae iudicat vitu perata mea ei, cum posse im pedit molestie ne, atqui viris simi lique ei vel. Per te illud an imal, vix ea sint con sul a pella tur iris itegre.",
+    "onSale": false,
+    "canBuy": false,
+    "salePrice": null,
+    "categories": [
+      "Equipment",
+      "Scubadiving"
+    ],
+    "category": "Scubadiving",
+    "variants": {
+      "kinds": [
+        "/image/product3.png",
+        "/image/product4.png",
+        "/image/product3.png",
+        "/image/product4.png"
+      ],
+      "sugestion": [
+        {
+          "image": "/image/product3.png",
+          "onSale": false,
+          "price": 160,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product4.png",
+          "onSale": false,
+          "price": 80,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product2.png",
+          "onSale": false,
+          "price": 100,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "image": "/image/product4.png",
+    "price": 80,
+    "name": "Board Paddle Pair",
+    "descrption": "Causae iudicat vitu perata mea ei, cum posse im pedit molestie ne, atqui viris simi lique ei vel. Per te illud an imal, vix ea sint con sul a pella tur iris itegre.",
+    "onSale": false,
+    "canBuy": false,
+    "salePrice": null,
+    "categories": [
+      "Canoenig",
+      "Equipment"
+    ],
+    "category": "Canoenig",
+    "variants": {
+      "kinds": [
+        "/image/product3.png",
+        "/image/product4.png",
+        "/image/product3.png",
+        "/image/product4.png"
+      ],
+      "sugestion": [
+        {
+          "image": "/image/product3.png",
+          "onSale": false,
+          "price": 160,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product2.png",
+          "onSale": false,
+          "price": 100,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product4.png",
+          "onSale": false,
+          "price": 80,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "image": "/image/product5.png",
+    "price": 170,
+    "name": "Kayak With Paddles",
+    "descrption": "Causae iudicat vitu perata mea ei, cum posse im pedit molestie ne, atqui viris simi lique ei vel. Per te illud an imal, vix ea sint con sul a pella tur iris itegre.",
+    "onSale": false,
+    "canBuy": false,
+    "salePrice": null,
+    "categories": [
+      "Canoenig",
+      "Padding"
+    ],
+    "category": "Paddling",
+    "variants": {
+      "kinds": [
+        "/image/product5.png",
+        "/image/product6.png",
+        "/image/product6.png",
+        "/image/product5.png"
+      ],
+      "sugestion": [
+        {
+          "image": "/image/product3.png",
+          "onSale": false,
+          "price": 160,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product5.png",
+          "onSale": false,
+          "price": 100,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product4.png",
+          "onSale": false,
+          "price": 80,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "image": "/image/product6.png",
+    "price": 150,
+    "name": "LIGTTWAVE BOARD",
+    "descrption": "Causae iudicat vitu perata mea ei, cum posse im pedit molestie ne, atqui viris simi lique ei vel. Per te illud an imal, vix ea sint con sul a pella tur iris itegre.",
+    "onSale": false,
+    "canBuy": false,
+    "salePrice": null,
+    "categories": [
+      "Equipment",
+      "Board"
+    ],
+    "category": "oppl",
+    "variants": {
+      "kinds": [
+        "/image/product5.png",
+        "/image/product6.png",
+        "/image/product6.png",
+        "/image/product5.png"
+      ],
+      "sugestion": [
+        {
+          "image": "/image/product3.png",
+          "onSale": false,
+          "price": 160,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product5.png",
+          "onSale": false,
+          "price": 100,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        },
+        {
+          "image": "/image/product4.png",
+          "onSale": false,
+          "price": 80,
+          "name": "SCUBA DIVING WETSUIT",
+          "categories": [
+            "Equipment",
+            "Board"
+          ]
+        }
+      ]
+    }
+  }
+]
